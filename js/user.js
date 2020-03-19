@@ -39,4 +39,8 @@ $(document).ready(function() {
     });
 });
 
+<<<<<<< HEAD
 // Den Counter konnte ich nicht machen weil es nur noch schlimmer wurde und es am ende nicht mehr funktionierte.
+=======
+// Den Counter konnte ich nicht machen weil es nur noch schlimmer wurde und es am ende nicht mehr funktionierte.
+>>>>>>> 349306b39b431d5889f8bab0dc360ea1e398a9b7
